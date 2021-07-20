@@ -18,9 +18,13 @@
 - 👀 I’m interested in ...
 <p>
     <img src="https://img.shields.io/badge/Blockchain.com-121d33?flat=plastic&logo=blockchain.com&logoColor=white" height="32" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Bitcoin-F7931a?flat=plastic&logo=bitcoin&logoColor=white" height="32" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Ethereum-3c3c3d?flat=plastic&logo=ethereum&logoColor=white" height="32" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Solidity-363636?flat=plastic&logo=Solidity&logoColor=white" height="32" />
+    &nbsp;
 </p>
 
 ## 🥇 My Github Stats:
