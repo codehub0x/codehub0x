@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"/>Thanks for visiting, I am Kane W. <img src="https://media.giphy.com/media/MAcwFESy7wH8skZyVi/giphy.gif" width="50"/></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"/>Thanks for visiting, I am Kane. <img src="https://media.giphy.com/media/MAcwFESy7wH8skZyVi/giphy.gif" width="50"/></h2>
 
 <p align="center">
     <span>&nbsp;</span>
@@ -15,7 +15,8 @@
     </a>
 </p>
 
-- 👀 I’m interested in ...
+## 👀 I’m interested in ...
+
 <p>
     <img src="https://img.shields.io/badge/Blockchain.com-121d33?flat=plastic&logo=blockchain.com&logoColor=white" height="32" />
     &nbsp;
@@ -28,6 +29,7 @@
 </p>
 
 ## 🥇 My Github Stats:
+
 <div>
     <a href="https://github-readme-stats.vercel.app/api?username=kanew071&show_icons=true&theme=tokyonight">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=kanew071&show_icons=true&theme=tokyonight" />
