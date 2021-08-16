@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"/>Thanks for visiting, I am Kane. <img src="https://media.giphy.com/media/MAcwFESy7wH8skZyVi/giphy.gif" width="50"/></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"/>Thanks for visiting. <img src="https://media.giphy.com/media/MAcwFESy7wH8skZyVi/giphy.gif" width="50"/></h2>
 
 <p align="center">
     <span>&nbsp;</span>
