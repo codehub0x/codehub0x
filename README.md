@@ -31,11 +31,11 @@
 ## 🥇 My Github Stats:
 
 <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=kanew071&show_icons=true&theme=tokyonight">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=kanew071&show_icons=true&theme=tokyonight" />
+    <a href="https://github-readme-stats.vercel.app/api?username=codehub0x&show_icons=true&theme=tokyonight">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=codehub0x&show_icons=true&theme=tokyonight" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=kanew071&theme=tokyonight">
-        <img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanew071&theme=tokyonight" />
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=codehub0x&theme=tokyonight">
+        <img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codehub0x&theme=tokyonight" />
     </a>
 </div>
 
