@@ -2,16 +2,16 @@
 
 <p align="center">
     <span>&nbsp;</span>
-    <a href="https://github.com/kanew071/kanew071">
-        <img src="https://pageview.vercel.app/?github_user=kanew071" alt="GitHub Profile Views" />
+    <a href="https://github.com/codehub0x/codehub0x">
+        <img src="https://pageview.vercel.app/?github_user=codehub0x" alt="GitHub Profile Views" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/kanew071?tab=followers">
-        <img src="https://img.shields.io/github/followers/kanew071?label=follow&style=flat&color=yellowgreen&logo=github" alt="GitHub Follower Count" />
+    <a href="https://github.com/codehub0x?tab=followers">
+        <img src="https://img.shields.io/github/followers/codehub0x?label=follow&style=flat&color=yellowgreen&logo=github" alt="GitHub Follower Count" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/kanew071?tab=stars">
-        <img src="https://img.shields.io/github/stars/kanew071?style=flat&color=yellowgreen&logo=github" alt="GitHub Star Count" />
+    <a href="https://github.com/codehub0x?tab=stars">
+        <img src="https://img.shields.io/github/stars/codehub0x?style=flat&color=yellowgreen&logo=github" alt="GitHub Star Count" />
     </a>
 </p>
 
